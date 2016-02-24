@@ -1,0 +1,4 @@
+<log>  <date>27.1.2016 г. 14:17:32</date>
+  <level>Error</level>
+  <message>test error</message>
+</log>

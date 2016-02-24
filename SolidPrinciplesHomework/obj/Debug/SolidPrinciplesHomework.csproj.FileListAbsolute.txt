@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\VS Workspace\Solid Principles Homework\SolidPrinciplesHomework\bin\Debug\SolidPrinciplesHomework.exe.config
+C:\Users\user\Desktop\VS Workspace\Solid Principles Homework\SolidPrinciplesHomework\bin\Debug\SolidPrinciplesHomework.exe
+C:\Users\user\Desktop\VS Workspace\Solid Principles Homework\SolidPrinciplesHomework\bin\Debug\SolidPrinciplesHomework.pdb
+C:\Users\user\Desktop\VS Workspace\Solid Principles Homework\SolidPrinciplesHomework\obj\Debug\SolidPrinciplesHomework.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\VS Workspace\Solid Principles Homework\SolidPrinciplesHomework\obj\Debug\SolidPrinciplesHomework.exe
+C:\Users\user\Desktop\VS Workspace\Solid Principles Homework\SolidPrinciplesHomework\obj\Debug\SolidPrinciplesHomework.pdb
